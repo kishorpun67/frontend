@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: wheat;
+}
+.body_container{
+    max-width: 575px;
+    background-color: white;
+
+}
+.header{
+
+    display: flex;
+    height: 100px;
+    justify-content: space-around;
+
+}
+.left_header {
+    display: flex;
+    align-items: center;
+}
+.right_header{
+    display: flex;
+    align-items: center;
+}
